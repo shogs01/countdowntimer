@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+    font-family: algeria;
+}
+.countdown-container {
+    text-align: center;
+    width: 800px;
+}
+.img{
+    width: 350px;
+    border-radius: 20px;
+}
+#class{
+    text-align: center;
+    color: aliceblue;
+}
+.container{
+    display:flex;
+    margin: 30px;
+}
+.dummy{
+    margin: 30px;
+}
